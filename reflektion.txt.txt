@@ -1,0 +1,9 @@
+Innan kursen så anser jag att jag hade en hyffsat bra uppfattning om vad mjukvaruutveckling var, efter kursen så har jag fått en mer ingående kunskap om vad som krävs vid varje steg.
+
+För mig innebär DevOps en kontinuerlig process – en slags oändlig cirkel utan ett definitivt slut. Om, jag skulle förklara det för en kompis så hade det nog blivit att  det handlar om att utveckling (Development) och drift (Operations) sker i nära samarbete. Genom detta samarbete kan man kontinuerligt utveckla en produkt, snabbt få feedback och ständigt förbättra den. Denna process pågår så länge produkten är aktiv och stöds av utvecklingsteamet.
+
+Molntjänster är något jag känt till rätt så länge, istället för att använda resurser lokalt på en dator så används resurser från datorer som är fysiskt placerade någon annanstans i hela världen. Detta innebär att man kan skapa en produkt som är åtkomlig oavsett var man befinner sig, så länge man har internetuppkoppling. Många brukade beskriva detta som "det magiska molnet", eftersom det var svårt att förstå hur det ens var möjligt att till exempel köra program som inte var installerade på den egna datorn. 
+
+Att utveckla något med andra handlar mycket om eget ansvar men även att försöka hjälpa andra så gott man kan, man har ett gemensamt ansvar inte bara för ens team utan även att kunderna ska få en så bra upplevelse som möjligt.
+
+Att få en bättre inblick i hur det utvecklingen går till på ett företag har nog varit det som jag funnit mest intressant.
