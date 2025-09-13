@@ -1,0 +1,12 @@
+1.Då det rör sig om olika former av tjänster som man hyr så kan man välja att enbart hyra själva infrastrukturen (alltså servers, routers etc) även kallat IaaS (Infrastructure as a Service). Är man däremot  intresserad av en plattform för att utveckla diverse program på så väljer man PaaS (Platform as a Service) för de som bara vill kunna köra diverse program finns slutligen SaaS (Software as a Service).
+
+2.Git är ett distribuerat versionskontrollsystem som skapats för att hantera och spåra förändringar i källkod under mjukvaruutveckling medan GitHub är en molnbaserad plattform som bygger på Git och används för att lagra, hantera och dela kod och projekt online.
+
+3.Ett informationssystem har till uppgift att samla in 'rådata' och omvandla detta till användbar information. Att enbart ha tillgång till data kan jämföras med att använda en ordbok, medan information motsvarar ett lexikon – mer sammanhängande och kontextualiserat.
+
+4.CIA-triaden inom cybersäkerhet handlar om att skydda data på tre sätt:
+Confidentiality innebär att endast behöriga personer kan få tillgång till känslig information.
+Integrity säkerställer att data inte kan ändras eller manipuleras utan upptäckt när den skickas mellan exempelvis A och B.
+Availability innebär att de som har rätt behörighet lätt ska kunna komma åt informationen när de behöver den.
+
+5. CI går ut på att varje gång man "pushar" kod så byggs den och testas automatiskt.
